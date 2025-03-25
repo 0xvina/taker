@@ -2233,3 +2233,15 @@
 3/25/2025 | 4:14:52 AM | INFO | Trying to check user miner status... 
 3/25/2025 | 4:14:53 AM | INFO | Last mining time: 3/24/2025, 4:15:36 AM
 3/25/2025 | 4:14:53 AM | WARN | Mining already started, next mining time is: 3/25/2025, 4:15:36 AM
+3/25/2025 | 8:17:04 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+3/25/2025 | 8:17:04 AM | INFO | Start process for wallet 0x5f879D48CC3b7fDbc88025F8E2dAF61265Ea4099 
+3/25/2025 | 8:17:05 AM | INFO | Trying To Login for wallet: 0x5f879D48CC3b7fDbc88025F8E2dAF61265Ea4099 
+3/25/2025 | 8:17:06 AM | INFO | Login successful... 
+3/25/2025 | 8:17:06 AM | INFO | Trying to check user info... 
+3/25/2025 | 8:17:06 AM | INFO | User ID: 28288343 | Twitter: @revinacalista | Total Points: 840000 
+3/25/2025 | 8:17:06 AM | INFO | Trying to check user miner status... 
+3/25/2025 | 8:17:07 AM | INFO | Last mining time: 3/24/2025, 4:15:36 AM
+3/25/2025 | 8:17:07 AM | INFO | Trying to start Mining for wallet: 0x5f879D48CC3b7fDbc88025F8E2dAF61265Ea4099 
+3/25/2025 | 8:17:08 AM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
+3/25/2025 | 8:17:08 AM | INFO | Trying to activate mining on-chain for wallet: 0x5f879D48CC3b7fDbc88025F8E2dAF61265Ea4099 
+3/25/2025 | 8:17:19 AM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0x58b7104fecb5e6c60e2eeb353e16cd22435ab6fc101ceeeccc0c848e2f40149f 
