@@ -2731,3 +2731,12 @@
 4/2/2025 | 8:14:03 PM | WARN | Retrying... (0 attempts left) 
 4/2/2025 | 8:14:07 PM | ERROR | Failed to get nonce after retries: Request failed with status code 521
 4/2/2025 | 8:14:07 PM | ERROR | Failed to retrieve nonce for wallet: 0x5f879D48CC3b7fDbc88025F8E2dAF61265Ea4099 
+4/3/2025 | 1:00:06 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+4/3/2025 | 1:00:06 AM | INFO | Start process for wallet 0x5f879D48CC3b7fDbc88025F8E2dAF61265Ea4099 
+4/3/2025 | 1:00:07 AM | INFO | Trying To Login for wallet: 0x5f879D48CC3b7fDbc88025F8E2dAF61265Ea4099 
+4/3/2025 | 1:00:08 AM | INFO | Login successful... 
+4/3/2025 | 1:00:08 AM | INFO | Trying to check user info... 
+4/3/2025 | 1:00:09 AM | INFO | User ID: 28288343 | Twitter: @revinacalista | Total Points: 1032000 
+4/3/2025 | 1:00:09 AM | INFO | Trying to check user miner status... 
+4/3/2025 | 1:00:09 AM | INFO | Last mining time: 4/2/2025, 1:00:51 AM
+4/3/2025 | 1:00:09 AM | WARN | Mining already started, next mining time is: 4/3/2025, 1:00:51 AM
