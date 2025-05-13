@@ -5038,3 +5038,15 @@
 5/13/2025 | 8:18:44 AM | INFO | Trying to activate mining on-chain for wallet: 0x5f879D48CC3b7fDbc88025F8E2dAF61265Ea4099 
 5/13/2025 | 8:18:45 AM | ERROR | Activate Mining Error: {"code":"SERVER_ERROR","request":{},"response":{},"info":{"requestUrl":"https://rpc-mainnet.taker.xyz/","responseBody":"<html>\r\n<head><title>502 Bad Gateway</title></head>\r\n<body>\r\n<center><h1>502 Bad Gateway</h1></center>\r\n<hr><center>nginx/1.26.2</center>\r\n</body>\r\n</html>\r\n","responseStatus":"502 Bad Gateway"},"shortMessage":"server response 502 Bad Gateway"}
 5/13/2025 | 8:18:45 AM | ERROR | Wallet already start mine today or wallet dont have taker balance 
+5/13/2025 | 12:26:57 PM | WARN |   === Sever is down bot might be slow - Just be patient ===
+5/13/2025 | 12:26:57 PM | INFO | Start process for wallet 0x5f879D48CC3b7fDbc88025F8E2dAF61265Ea4099 
+5/13/2025 | 12:26:58 PM | INFO | Trying To Login for wallet: 0x5f879D48CC3b7fDbc88025F8E2dAF61265Ea4099 
+5/13/2025 | 12:26:58 PM | INFO | Login successful... 
+5/13/2025 | 12:26:58 PM | INFO | Trying to check user info... 
+5/13/2025 | 12:26:59 PM | INFO | User ID: 28288343 | Twitter: @revinacalista | Total Points: 1896000 
+5/13/2025 | 12:26:59 PM | INFO | Trying to check user miner status... 
+5/13/2025 | 12:27:05 PM | INFO | Last mining time: 5/12/2025, 4:18:24 AM
+5/13/2025 | 12:27:05 PM | INFO | Trying to start Mining for wallet: 0x5f879D48CC3b7fDbc88025F8E2dAF61265Ea4099 
+5/13/2025 | 12:27:09 PM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
+5/13/2025 | 12:27:09 PM | INFO | Trying to activate mining on-chain for wallet: 0x5f879D48CC3b7fDbc88025F8E2dAF61265Ea4099 
+5/13/2025 | 12:28:02 PM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0x2d337e01ea614dee1bca63279e5c6501388ee01d37e37200bdac6f89de4152b0 
