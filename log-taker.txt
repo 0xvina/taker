@@ -5518,3 +5518,16 @@
 5/21/2025 | 8:14:39 PM | INFO | Trying to activate mining on-chain for wallet: 0x5f879D48CC3b7fDbc88025F8E2dAF61265Ea4099 
 5/21/2025 | 8:14:47 PM | ERROR | Activate Mining Error: {"code":"INSUFFICIENT_FUNDS","transaction":"0x02f86b8204655c80831e848082ed9594b3efe5105b835e5dd9d206445dbd66df24b912ab808402fb0c5ec080a075660de660b6ec45a0ee5233d4a399088dd3b2190e780f9f8613b36e23c4f368a00ba1ce8332b4d0b892afcd5de9186be86b9f7880b6736f6f01ac0fbb247b5b5d","info":{"error":{"code":-32603,"message":"insufficient funds for gas * price + value"}},"shortMessage":"insufficient funds for intrinsic transaction cost"}
 5/21/2025 | 8:14:47 PM | ERROR | Wallet already start mine today or wallet dont have taker balance 
+5/22/2025 | 1:04:20 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+5/22/2025 | 1:04:20 AM | INFO | Start process for wallet 0x5f879D48CC3b7fDbc88025F8E2dAF61265Ea4099 
+5/22/2025 | 1:04:21 AM | INFO | Trying To Login for wallet: 0x5f879D48CC3b7fDbc88025F8E2dAF61265Ea4099 
+5/22/2025 | 1:04:22 AM | INFO | Login successful... 
+5/22/2025 | 1:04:22 AM | INFO | Trying to check user info... 
+5/22/2025 | 1:04:22 AM | INFO | User ID: 28288343 | Twitter: @revinacalista | Total Points: 2088000 
+5/22/2025 | 1:04:22 AM | INFO | Trying to check user miner status... 
+5/22/2025 | 1:04:23 AM | INFO | Last mining time: 5/20/2025, 8:18:54 AM
+5/22/2025 | 1:04:23 AM | INFO | Trying to start Mining for wallet: 0x5f879D48CC3b7fDbc88025F8E2dAF61265Ea4099 
+5/22/2025 | 1:04:24 AM | INFO | Mine response: {"code":500,"msg":"startMining Fail, startMining has not reached refresh time","data":null}
+5/22/2025 | 1:04:24 AM | INFO | Trying to activate mining on-chain for wallet: 0x5f879D48CC3b7fDbc88025F8E2dAF61265Ea4099 
+5/22/2025 | 1:04:25 AM | ERROR | Activate Mining Error: {"code":"CALL_EXCEPTION","action":"estimateGas","data":null,"reason":null,"transaction":{"to":"0xB3eFE5105b835E5Dd9D206445Dbd66DF24b912AB","data":"0x02fb0c5e","from":"0x5f879D48CC3b7fDbc88025F8E2dAF61265Ea4099"},"invocation":null,"revert":null,"shortMessage":"missing revert data","info":{"error":{"code":-32603,"message":"execution fatal: Module(ModuleError { index: 40, error: [5, 0, 0, 0], message: None })"},"payload":{"method":"eth_estimateGas","params":[{"nonce":"0x35","from":"0x5f879d48cc3b7fdbc88025f8e2daf61265ea4099","to":"0xb3efe5105b835e5dd9d206445dbd66df24b912ab","data":"0x02fb0c5e"}],"id":3,"jsonrpc":"2.0"}}}
+5/22/2025 | 1:04:25 AM | ERROR | Wallet already start mine today or wallet dont have taker balance 
